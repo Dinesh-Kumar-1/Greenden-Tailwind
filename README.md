@@ -4,10 +4,15 @@ Greenden is an e-commerce website offering a wide range of artificial and natura
 # Features
 # Homepage
 **Sticky Navigation Bar:** The navigation bar remains at the top of the page as you scroll, ensuring easy access to different sections of the site.
+
 **Hero Section:** Highlights the variety of plants available and includes a call-to-action for shopping and watching videos.
+
 **About Us Section:** Provides information about the company and its offerings.
+
 **Best Sellers:** Showcases the most popular products with hover effects for an interactive experience.
+
 **Customer Reviews:** Displays testimonials from satisfied customers.
+
 **Newsletter Subscription:** Allows users to sign up for updates and exclusive discounts.
 
 # Products Page

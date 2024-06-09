@@ -18,5 +18,6 @@ Product Grid: Displays products in a grid layout with hover effects for addition
 Contact Form: Allows users to send messages, including fields for email, subject, and message content.
 #Technologies Used
 **HTML:** Structure of the web pages.
+
 **Tailwind CSS:** For styling and ensuring the site is responsive.
 
